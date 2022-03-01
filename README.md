@@ -1,3 +1,3 @@
 # webpage1
-sample webpage code with background image.
-developed by: vikas zalavadiya
+Sample Webpage code with Background Image.
+developed by: vikas zalavadiya.
