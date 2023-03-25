@@ -1,3 +1,2 @@
-# WEBPAGE #1
-Sample Webpage code with Background Image.
-developed by: vikas zalavadiya.
+# WEBPAGE #
+Sample Webpage code with Background Image for AWS Server, Docker, Kubernatives practises.
